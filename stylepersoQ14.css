@@ -1,0 +1,34 @@
+/* Mon CSS perso */
+
+h1 {
+    text-align: center;
+    background-color: gray;
+    color: white;
+    text-decoration: underline;
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+div {
+    text-align: right;  /* le texte sera aligné au centre */
+    color: red;  /* le texte est en bleu, les couleurs sont codées #rrvvbb de #000000 à #FFFFFF */
+}
+
+h2 { 
+    text-align: right;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+h2.sous-titre {
+    text-align: left;
+}
+
+.rime {
+    color: black;  /* le texte est en rouge */
+    background-color: yellow;
+    font-weight: bold;  /* la police est en gras */
+    text-decoration: underline;
+}
+
+
